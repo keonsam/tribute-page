@@ -1,0 +1,57 @@
+body {
+  padding: 15px;
+  background-color: hsl(199, 96%, 62%);
+}
+#main {
+  padding: 20px 10px 5px;
+  border-radius: 10px;
+  background-color: hsl(45,16.7%,90.6%);
+}
+h1 {
+  font-size: 38px;
+  text-align: center;
+  font-family: 'Cinzel', San-Serif;
+  padding: 5px;
+  margin-bottom: 25px;
+}
+h2 {
+  font-size: 22px;
+  text-align: center;
+}
+
+img {
+  display: block;
+  width: 95%;
+  margin: 0 auto;
+}
+
+#accomplishments {
+  position: relative;
+  top: 30px;
+  padding-left: 20px;
+}
+
+h3 {
+  font-size: 20px;
+}
+li {
+ font-size: 18px;
+}
+#endingPar {
+  padding: 10px;
+  font-size: 16px;
+  text-align: center;
+}
+a {
+  color: black;
+}
+a:hover {
+  color:blue;
+}
+footer{
+  margin-top: 30px;
+  text-align: center;
+}
+#mylinks {
+color: hsl(293, 100%, 50%);
+}
